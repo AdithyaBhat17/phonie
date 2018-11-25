@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/phonie/precache-manifest.b7852959d8cb4e9e0e65eeaf2e5f2302.js"
+  "/phonie/precache-manifest.1088792449df0cb4d3804ab349b78187.js"
 );
 
 workbox.clientsClaim();
